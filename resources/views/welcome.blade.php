@@ -90,8 +90,8 @@
                     <a href="https://laravel-news.com">News</a>
                     <a href="https://blog.laravel.com">Blog</a>
                     <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">sarfudin</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://forge.laravel.com">Naresh </a>
+                    <a href="https://github.com/laravel/laravel">Das</a>
                 </div>
             </div>
         </div>
