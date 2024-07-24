@@ -15,6 +15,10 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/abc', function () {
+    echo "anshu";
+})->name('abcdef');
+
 Route::get('/aaryan', function() {
     echo "Welcome To Php";
 })->name('register');
