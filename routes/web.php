@@ -14,3 +14,16 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/aaryan', function() {
+    echo "Welcome To Php";
+})->name('register');
+
+Route::get('/abc','TestController@index')->name('login');
+
+Route::get('/table','TestController@table')->name('table');
+
+
+Route::get('/rahul', function() {
+    echo "Welcome ";
+})->name('bit');
